@@ -15,8 +15,8 @@ Bienvenidos 👋. Cada grupo tiene una carpeta asignada dentro de este repositor
 	https://github.com/
 
 3. En el gitbash configura tu nombre y correo con el que te registraste en Github:
-	git config --global user.name "Tu Nombre"
-	git config --global user.email "tu_correo@example.com"
+	- git config --global user.name "Tu Nombre"
+	- git config --global user.email "tu_correo@example.com"
 
 4. Clona el repositorio:
 	git clone https://github.com/aldochavez/Curso_Verano_2026_0.git
